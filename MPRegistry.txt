@@ -1,0 +1,1338 @@
+Current configuration options for location "effective policy"
+[.]
+    AllowFastServiceStartup                  [REG_DWORD]    : 1 (0X1)
+    BackupLocation                           [REG_SZ]       : 
+    BetaPlatform                             [REG_DWORD]    : 0 (0X0)
+    BlockedLocation                          [REG_SZ]       : 
+    CachedProxy                              [REG_SZ]       : (null)
+    CachedProxyAccessType                    [REG_DWORD]    : 0 (0X0)
+    CachedProxyBypass                        [REG_SZ]       : (null)
+    ComClassGuid                             [REG_SZ]       : A2D75874-6750-4931-94C1-C99D3BC9D0C7
+    DisableAntiSpyware                       [REG_DWORD]    : 0 (0X0)
+    DisableAntiVirus                         [REG_DWORD]    : 0 (0X0)
+    DisableLocalAdminMerge                   [REG_DWORD]    : 0 (0X0)
+    DisableRoutinelyTakingAction             [REG_DWORD]    : 0 (0X0)
+    DisableSpecialRunningModes               [REG_DWORD]    : <NO VALUE>
+    DisableTokenRecovery                     [REG_DWORD]    : 0 (0X0)
+    DssCounter                               [REG_DWORD]    : 0 (0X0)
+    EnableAuditMode                          [REG_DWORD]    : 0 (0X0)
+    EnableCloudAuditMode                     [REG_DWORD]    : 0 (0X0)
+    EnableRemoteManagedDefaults              [REG_DWORD]    : 0 (0X0)
+    EndOfLifeState                           [REG_DWORD]    : <NO VALUE>
+    EngineParanoidMode                       [REG_DWORD]    : 0 (0X0)
+    EngineRing                               [REG_DWORD]    : 0 (0X0)
+    EventLogSourceName                       [REG_SZ]       : Windows Defender
+    FlightingLevel                           [REG_DWORD]    : 0 (0X0)
+    ForceUseProxyOnly                        [REG_DWORD]    : 0 (0X0)
+    HideExclusionsFromLocalAdmins            [REG_DWORD]    : 0 (0X0)
+    InstallLocation                          [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0\
+    InstallTime                              [REG_BINARY]   : [UTC] Saturday, August 21, 2021 9:51:50 PM
+    InternalMode                             [REG_DWORD]    : 0 (0X0)
+    IsDevMode                                [REG_DWORD]    : 0 (0X0)
+    IsServiceRunning                         [REG_DWORD]    : 1 (0X1)
+    LastEnabledTime                          [REG_BINARY]   : 
+    LastKnownGoodProxy                       [REG_DWORD]    : 0 (0X0)
+    LastWdDisable                            [REG_BINARY]   : 
+    LastWdEnable                             [REG_BINARY]   : 
+    MaintenanceCriticalDeadline              [REG_DWORD]    : 25 (0X19)
+    MaintenanceInterval                      [REG_DWORD]    : 24 (0X18)
+    MaintenanceNonCriticalDeadline           [REG_DWORD]    : 168 (0XA8)
+    ManagedDefenderProductType               [REG_DWORD]    : 0 (0X0)
+    MdmSubscriberIds                         [REG_MULTI_SZ] : <NO VALUE>
+    NewLocation                              [REG_SZ]       : 
+    OfflineTargetOS                          [REG_SZ]       : (null)
+    OldMachineGUID                           [REG_SZ]       : (null)
+    OOBEInstallTime                          [REG_BINARY]   : 51 9A 5A E7  C6 96 D7 01 
+    OutdatedPlatformVersion                  [REG_SZ]       : (null)
+    PartnerGUID                              [REG_SZ]       : (null)
+    PassiveMode                              [REG_DWORD]    : 0 (0X0)
+    PendingInstallLocation                   [REG_SZ]       : 
+    PlatformRing                             [REG_DWORD]    : 0 (0X0)
+    PreserveInternalLicenseOnUpgrade         [REG_DWORD]    : 0 (0X0)
+    PreviousRunningMode                      [REG_DWORD]    : 0 (0X0)
+    ProductAppDataPath                       [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender
+    ProductFeature                           [REG_DWORD]    : 0 (0X0)
+    ProductGUID                              [REG_SZ]       : 77BDAF73-B396-481F-9042-AD358843EC24
+    ProductLocalizedName                     [REG_SZ]       : @C:\Program Files\Windows Defender\EppManifest.dll,-1000
+    ProductMdmPolicyRegKey                   [REG_SZ]       : SOFTWARE\Policies\Microsoft\Windows Defender\Policy Manager
+    ProductName                              [REG_SZ]       : Windows Defender
+    ProductPolicyRegKey                      [REG_SZ]       : SOFTWARE\Policies\Microsoft\Windows Defender
+    ProductRelativePath                      [REG_SZ]       : Microsoft\Windows Defender
+    ProductRootRegKey                        [REG_SZ]       : SOFTWARE\Microsoft\Windows Defender
+    ProductStatus                            [REG_DWORD]    : 0 (0X0)
+    ProductType                              [REG_DWORD]    : 2 (0X2)
+    ProxyBypass                              [REG_MULTI_SZ] : <NO VALUE>
+    ProxyConfigOverride                      [REG_DWORD]    : 0 (0X0)
+    ProxyPacUrl                              [REG_SZ]       : (null)
+    ProxyServer                              [REG_SZ]       : (null)
+    PUAProtection                            [REG_DWORD]    : 0 (0X0)
+    RandomizeScheduleTaskTimes               [REG_DWORD]    : 1 (0X1)
+    RemediationExe                           [REG_SZ]       : windowsdefender://
+    ReportingGUID                            [REG_SZ]       : 18B4C6DF-81AE-4A3E-8D9D-89D0FB459414
+    RoutineActionDelay                       [REG_DWORD]    : 5000 (0X1388)
+    RoutineActionMaxDelay                    [REG_DWORD]    : 60000 (0XEA60)
+    RpcUserQuota                             [REG_DWORD]    : 128 (0X80)
+    SavedHybridModePolicy                    [REG_DWORD]    : 0 (0X0)
+    SchedulerRandomizationTime               [REG_DWORD]    : 4 (0X4)
+    ServiceHardeningFlags                    [REG_DWORD]    : 0 (0X0)
+    ServiceKeepAlive                         [REG_DWORD]    : 0 (0X0)
+    ServiceName                              [REG_SZ]       : WinDefend
+    ServiceStartStates                       [REG_DWORD]    : 0 (0X0)
+    SignaturesRing                           [REG_DWORD]    : 0 (0X0)
+    SmartLockerMode                          [REG_DWORD]    : 0 (0X0)
+    SpecialRunningModeKillbitted             [REG_DWORD]    : <NO VALUE>
+    SupportLogEventIds                       [REG_SZ]       : (null)
+    SupportLogLocation                       [REG_SZ]       : (null)
+    ThreatFileHashLogging                    [REG_DWORD]    : 0 (0X0)
+    TrustedImageIdentifier                   [REG_SZ]       : (null)
+[Device Control]
+[Device Control\Policy Groups]
+    PolicyGroups                             [REG_SZ]       : (null)
+[Device Control\Policy Rules]
+    PolicyRules                              [REG_SZ]       : (null)
+[Diagnostics]
+    IsPlatformRolledback                     [REG_DWORD]    : 0 (0X0)
+    LastKnownGoodEngineCandidate             [REG_BINARY]   : 0A 00 44 48  01 00 01 00 
+    LastKnownGoodPlatformCandidate           [REG_SZ]       : 
+    LastKnownGoodPlatformLocation            [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0
+    PlatformHealthData                       [REG_BINARY]   : 02 00 00 00  28 01 00 00  B5 94 27 BB  FF 96 D7 01  E4 9B CE 26  1A A4 D7 01  04 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  04 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  00 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  00 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  02 00 00 00 
+    PlatformRollbackInProgress               [REG_DWORD]    : 0 (0X0)
+[Diagnostics\BlockedVersions]
+[Diagnostics\BlockedVersions\Engine]
+[Diagnostics\BlockedVersions\Platform]
+[Diagnostics\BlockedVersions\Signatures]
+[Exclusions]
+    DisableAutoExclusions                    [REG_DWORD]    : 0 (0X0)
+[Exclusions\Extensions]
+[Exclusions\IpAddresses]
+[Exclusions\Paths]
+[Exclusions\Processes]
+[Exclusions\TemporaryPaths]
+[Features]
+    AutomaticEngineRollbackMode              [REG_DWORD]    : <NO VALUE>
+    ChangedDefaults                          [REG_BINARY]   : 01 00 00 00  00 00 00 00 
+    DlpClipboardSettings                     [REG_DWORD]    : <NO VALUE>
+    DlpShowIconOverlay                       [REG_DWORD]    : <NO VALUE>
+    EngineParanoidFeature                    [REG_DWORD]    : 0 (0X0)
+    ForcePassiveMode                         [REG_DWORD]    : 0 (0X0)
+    GeoPreferenceId                          [REG_SZ]       : (null)
+    MpCapability                             [REG_BINARY]   : 1F 00 00 00  00 00 00 00 
+    MpPlatformKillbitsFromEngine             [REG_BINARY]   : 00 08 0A 04  00 00 00 00 
+    PassiveRemediation                       [REG_DWORD]    : 0 (0X0)
+    PowerFeature                             [REG_DWORD]    : 1 (0X1)
+    RollbackManagerEnabled                   [REG_DWORD]    : 1 (0X1)
+    SenseDlpEnabled                          [REG_DWORD]    : 0 (0X0)
+    SenseDlpShowBypassReasonUx               [REG_DWORD]    : 0 (0X0)
+    SenseDlpUserBypassDuration               [REG_DWORD]    : <NO VALUE>
+    SenseEnabled                             [REG_DWORD]    : 0 (0X0)
+    SenseOrgId                               [REG_SZ]       : (null)
+    TamperProtection                         [REG_DWORD]    : 1 (0X1)
+    TamperProtectionSource                   [REG_DWORD]    : 5 (0X5)
+[Features\Controls]
+    7                                        [REG_DWORD]    : 1 (0X1)
+    9                                        [REG_DWORD]    : 1 (0X1)
+[Features\Troubleshooting]
+    TSExpirationTime                         [REG_DWORD]    : 0 (0X0)
+    TSSource                                 [REG_DWORD]    : 0 (0X0)
+    TSStartTime                              [REG_BINARY]   : 
+    TSState                                  [REG_DWORD]    : 0 (0X0)
+[Miscellaneous Configuration]
+    BddUpdateFailure                         [REG_DWORD]    : 0 (0X0)
+    DeltaUpdateFailure                       [REG_DWORD]    : 0 (0X0)
+    DisableAsyncScanOnClose                  [REG_DWORD]    : 0 (0X0)
+    DisableCopyAccelerationForSessionZero    [REG_DWORD]    : 1 (0X1)
+    DisableDriverUnload                      [REG_DWORD]    : <NO VALUE>
+    DisableInjection                         [REG_DWORD]    : 0 (0X0)
+    DisableLastAccessTimeSuppression         [REG_DWORD]    : 0 (0X0)
+    DisableTPExclusions                      [REG_DWORD]    : 0 (0X0)
+    DlpAppEnlightenmentSettings              [REG_DWORD]    : <NO VALUE>
+    DlpBrowserCacheCleanUpInterval           [REG_DWORD]    : 15 (0XF)
+    DlpBrowserStaleCacheCleanUpInterval      [REG_DWORD]    : 240 (0XF0)
+    DlpClipboardSettings                     [REG_DWORD]    : <NO VALUE>
+    DlpDisableBrowserCache                   [REG_DWORD]    : 1 (0X1)
+    DlpDisablePrintFileHeuristic             [REG_DWORD]    : <NO VALUE>
+    DlpShowDialogs                           [REG_DWORD]    : <NO VALUE>
+    DlpShowIconOverlay                       [REG_DWORD]    : <NO VALUE>
+    DynamicInjectionThresholdForCopyAcceleration [REG_DWORD]    : 5 (0X5)
+    DynamicInjectionTimeWindowForCopyAcceleration [REG_DWORD]    : 30 (0X1E)
+    EnableDlpInPassiveMode                   [REG_DWORD]    : 1 (0X1)
+    InternalForceUUP                         [REG_DWORD]    : 0 (0X0)
+    ProxyForceIgnoreCache                    [REG_DWORD]    : 0 (0X0)
+[MpEngine]
+    DisableGradualRelease                    [REG_DWORD]    : 0 (0X0)
+    EnableFileHashComputation                [REG_DWORD]    : 0 (0X0)
+    MpBafsExtendedTimeout                    [REG_DWORD]    : <NO VALUE>
+    MpCloudBlockLevel                        [REG_DWORD]    : <NO VALUE>
+[NIS]
+    StartDelay                               [REG_DWORD]    : 0 (0X0)
+[NIS\Consumers\IPS]
+    AllowDatagramProcessingOnWinServer       [REG_DWORD]    : 0 (0X0)
+    DisableBmNetworkSensor                   [REG_DWORD]    : 0 (0X0)
+    DisableDatagramProcessing                [REG_DWORD]    : 0 (0X0)
+[Quarantine]
+    LocalSettingOverridePurgeItemsAfterDelay [REG_DWORD]    : 0 (0X0)
+    PurgeItemsAfterDelay                     [REG_DWORD]    : 90 (0X5A)
+    QuarantineLocation                       [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Quarantine
+[Real-Time Protection]
+    AVOnAccessScanErrorRetryCount            [REG_DWORD]    : 1000 (0X3E8)
+    DirectoryMonitoringKillbit               [REG_DWORD]    : 0 (0X0)
+    DisableBehaviorMonitoring                [REG_DWORD]    : 0 (0X0)
+    DisableDriverUnload                      [REG_DWORD]    : 1 (0X1)
+    DisableDynamicRegHardening               [REG_DWORD]    : 0 (0X0)
+    DisableEarlyLaunchAntimalware            [REG_DWORD]    : 0 (0X0)
+    DisableIOAVProtection                    [REG_DWORD]    : 0 (0X0)
+    DisableOnAccessProtection                [REG_DWORD]    : 0 (0X0)
+    DisableRawWriteNotification              [REG_DWORD]    : 0 (0X0)
+    DisableRealtimeMonitoring                [REG_DWORD]    : 0 (0X0)
+    DisableScanOnRealtimeEnable              [REG_DWORD]    : 0 (0X0)
+    DisableScriptScanning                    [REG_DWORD]    : 0 (0X0)
+    DisableStackBasedCopyOptimization        [REG_DWORD]    : 0 (0X0)
+    DpaDisabled                              [REG_DWORD]    : 0 (0X0)
+    EnableHardlinkMonitoring                 [REG_DWORD]    : 0 (0X0)
+    IncludedLocalDriveLetters                [REG_SZ]       : 
+    IOAVMaxSize                              [REG_DWORD]    : 0 (0X0)
+    LocalCopyDirectory                       [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\LocalCopy
+    LocalSettingOverrideDirectoryMonitoringKillbit [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableBehaviorMonitoring [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableEarlyLaunchAntimalware [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableIOAVProtection [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableOnAccessProtection [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableRealtimeMonitoring [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideDisableScriptScanning [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideEnableHardlinkMonitoring [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideRealTimeScanDirection [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideSyncMonitorRequestDuration [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideSyncMonitorState     [REG_DWORD]    : 0 (0X0)
+    MpEngine_AllowedUrlExclusionDisabled     [REG_DWORD]    : 0 (0X0)
+    MpEngine_DisableScriptScanning           [REG_DWORD]    : 0 (0X0)
+    MpEngine_InMemoryScan_CacheMaxBuffer     [REG_DWORD]    : 4194304 (0X400000)
+    MpEngine_InMemoryScan_CacheSize          [REG_DWORD]    : 2048 (0X800)
+    MpEngine_ScriptScanning_MinSize          [REG_DWORD]    : 32 (0X20)
+    MpEngine_ZoneBasedUrlExclusionDisabled   [REG_DWORD]    : 0 (0X0)
+    MpRtp_Delay_Normalized_Path_Query        [REG_DWORD]    : 1000 (0X3E8)
+    NriServiceStopDelay                      [REG_DWORD]    : 60000 (0XEA60)
+    RealTimeScanDirection                    [REG_DWORD]    : 0 (0X0)
+    ScriptScanningCacheSharing               [REG_DWORD]    : 0 (0X0)
+    ScriptScanningCacheSize                  [REG_DWORD]    : 8000 (0X1F40)
+    SendSynchronousProcessCreateNotification [REG_DWORD]    : 0 (0X0)
+    SyncMonitorRequestDuration               [REG_DWORD]    : 10000 (0X2710)
+    SyncMonitorState                         [REG_DWORD]    : 1 (0X1)
+    TrustLabelProtectionStatus               [REG_DWORD]    : 0 (0X0)
+[Remediation]
+    DisableRim                               [REG_DWORD]    : 0 (0X0)
+    EnableLocalFileRollback                  [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideScan_ScheduleTime    [REG_DWORD]    : 0 (0X0)
+    Scan_ScheduleDay                         [REG_DWORD]    : 0 (0X0)
+    Scan_ScheduleTime                        [REG_DWORD]    : 120 (0X78)
+[Reporting]
+    AdditionalActionTimeOut                  [REG_DWORD]    : 10080 (0X2760)
+    CriticalFailureTimeOut                   [REG_DWORD]    : 10080 (0X2760)
+    DisableEnhancedNotifications             [REG_DWORD]    : 0 (0X0)
+    EnableShutdownTracing                    [REG_DWORD]    : 0 (0X0)
+    EventNotificationDelay                   [REG_DWORD]    : 300 (0X12C)
+    EventNotificationPath                    [REG_SZ]       : (null)
+    HealthEventInterval                      [REG_DWORD]    : 60 (0X3C)
+    LastDefenderDisableHeartbeatReportTime   [REG_BINARY]   : 
+    LastESUHeartbeatReportTime               [REG_BINARY]   : 
+    LastExclusionsHeartbeatReportTime        [REG_BINARY]   : 
+    LastHeartbeatReportTime                  [REG_BINARY]   : 10 C7 9E 2D  D7 A2 D7 01 
+    LastMapsDisableHeartbeatReportTime       [REG_BINARY]   : 
+    LastMpsigstubErrorHeartbeatReportTime    [REG_BINARY]   : 
+    LastPaidHeartbeatReportTime              [REG_BINARY]   : 
+    LastRebootTime                           [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 1:56:26 AM
+    LastRecapTime                            [REG_BINARY]   : FF 9D EB 15  8D A3 D7 01 
+    LastRtpAndScanConfigsCollectedInHeartbeatTime [REG_BINARY]   : AE 89 FB F3  D6 96 D7 01 
+    LastRtpHeartbeatReportTime               [REG_BINARY]   : 
+    LastRtpTurnedOffTime                     [REG_BINARY]   : 
+    LastSetupErrorHeartbeatReportTime        [REG_BINARY]   : 
+    LastTestErrorHeartbeatReportTime         [REG_BINARY]   : 
+    LastUninstallHeartbeatReportTime         [REG_BINARY]   : 
+    NonCriticalTimeOut                       [REG_DWORD]    : 1440 (0X5A0)
+    PassiveModeEnabledTime                   [REG_BINARY]   : 
+    RecentlyCleanedTimeOut                   [REG_DWORD]    : 1440 (0X5A0)
+    ScanReportLocation                       [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans
+    ScansSinceLastRecap                      [REG_DWORD]    : 1 (0X1)
+    SigUpdateTimestampsSinceLastHB           [REG_SZ]       : 
+    WppTracingComponents                     [REG_DWORD]    : 4294967295 (0XFFFFFFFF)
+    WppTracingLevel                          [REG_DWORD]    : 3 (0X3)
+[Scan]
+    AggressiveCatchupQuickScanReattemptElapsed [REG_DWORD]    : 23 (0X17)
+    AllowCacheTrustedImage                   [REG_DWORD]    : 0 (0X0)
+    AllowPause                               [REG_DWORD]    : 1 (0X1)
+    ArchiveMaxDepth                          [REG_DWORD]    : 0 (0X0)
+    ArchiveMaxSize                           [REG_DWORD]    : 0 (0X0)
+    AvgCPULoadFactor                         [REG_DWORD]    : 50 (0X32)
+    BypassOfflineCacheBuild                  [REG_DWORD]    : 0 (0X0)
+    CacheFile                                [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\F0D480E9-0002-4457-9CC1-FE39636AD3C5-0.bin
+    CacheMaxSize                             [REG_DWORD]    : 6291456 (0X600000)
+    CheckForSignaturesBeforeRunningScan      [REG_DWORD]    : 0 (0X0)
+    DaysUntilAggressiveCatchupQuickScan      [REG_DWORD]    : 30 (0X1E)
+    DisableArchiveScanning                   [REG_DWORD]    : 0 (0X0)
+    DisableAutoCreateJournal                 [REG_DWORD]    : 0 (0X0)
+    DisableCacheTrustedUSN                   [REG_DWORD]    : 0 (0X0)
+    DisableCatchupFullScan                   [REG_DWORD]    : 1 (0X1)
+    DisableCatchupQuickScan                  [REG_DWORD]    : 1 (0X1)
+    DisableCopyAcceleration                  [REG_DWORD]    : 1 (0X1)
+    DisableCpuThrottleOnIdleScans            [REG_DWORD]    : 1 (0X1)
+    DisableDynamicCacheEntries               [REG_DWORD]    : 0 (0X0)
+    DisableEmailScanning                     [REG_DWORD]    : 1 (0X1)
+    DisableHeuristics                        [REG_DWORD]    : 0 (0X0)
+    DisableRemovableDriveScanning            [REG_DWORD]    : 1 (0X1)
+    DisableReparsePointScanning              [REG_DWORD]    : 1 (0X1)
+    DisableRestorePoint                      [REG_DWORD]    : 1 (0X1)
+    DisableScanningMappedNetworkDrivesForFullScan [REG_DWORD]    : 1 (0X1)
+    DisableScanningNetworkFiles              [REG_DWORD]    : 0 (0X0)
+    DynamicSignatureLocation                 [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans\RtSigs\data
+    EnableCacheTrustedImage                  [REG_DWORD]    : 0 (0X0)
+    EnableFullScanOnBatteryPower             [REG_DWORD]    : 0 (0X0)
+    EnableStaticInjectForCopyAcceleration    [REG_MULTI_SZ] : <NO VALUE>
+    ExcludeDynamicInjectForCopyAcceleration  [REG_MULTI_SZ] : <NO VALUE>
+    ForceNonMaintenanceMode                  [REG_DWORD]    : <NO VALUE>
+    LastAggressiveCheck                      [REG_BINARY]   : [UTC] Monday, September 6, 2021 4:25:09 AM
+    LastFullScanBytesCount                   [REG_BINARY]   : 
+    LastFullScanID                           [REG_SZ]       : (null)
+    LastOfflineScan                          [REG_BINARY]   : 
+    LastOfflineScanPreserved                 [REG_BINARY]   : 
+    LastQuickScanID                          [REG_SZ]       : {426EEDEE-A5DE-4A2A-979C-7202210DF9CF}
+    LastQuickScanResourceCount               [REG_BINARY]   : 4F 99 07 00  00 00 00 00 
+    LastRestorePoint                         [REG_BINARY]   : 
+    LastScanRun                              [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 2:07:18 AM
+    LastScanType                             [REG_DWORD]    : 1 (0X1)
+    LocalSettingOverrideAvgCPULoadFactor     [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideScanParameters       [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideScheduleDay          [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideScheduleQuickScanTime [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideScheduleTime         [REG_DWORD]    : 0 (0X0)
+    LowCpuPriority                           [REG_DWORD]    : 0 (0X0)
+    MissedScheduledScanCountBeforeCatchup    [REG_DWORD]    : <NO VALUE>
+    OfflineScanBootConfig                    [REG_DWORD]    : 0 (0X0)
+    OfflineScanResult                        [REG_DWORD]    : <NO VALUE>
+    OfflineScanRun                           [REG_DWORD]    : <NO VALUE>
+    OfflineTelemetryPath                     [REG_SZ]       : (null)
+    PurgeItemsAfterDelay                     [REG_DWORD]    : 15 (0XF)
+    QuickScanInterval                        [REG_DWORD]    : 0 (0X0)
+    ScanOnlyIfIdle                           [REG_DWORD]    : 1 (0X1)
+    ScanParameters                           [REG_DWORD]    : 1 (0X1)
+    ScheduleDay                              [REG_DWORD]    : 0 (0X0)
+    ScheduleQuickScanTime                    [REG_DWORD]    : 0 (0X0)
+    ScheduleTime                             [REG_DWORD]    : 120 (0X78)
+    SFCState                                 [REG_DWORD]    : 7 (0X7)
+    ThrottleForScheduledScanOnly             [REG_DWORD]    : 1 (0X1)
+[Signature Updates]
+    ADLFallbackIgnore                        [REG_SZ]       : 
+    ASSignatureApplied                       [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 12:25:16 PM
+    ASSignatureBaseVersion                   [REG_SZ]       : 1.349.0.0
+    ASSignatureDue                           [REG_DWORD]    : 7 (0X7)
+    ASSignatureVersion                       [REG_SZ]       : 1.349.305.0
+    AuGracePeriod                            [REG_DWORD]    : 0 (0X0)
+    AVSignatureApplied                       [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 12:25:15 PM
+    AVSignatureBaseVersion                   [REG_SZ]       : 1.349.0.0
+    AVSignatureDue                           [REG_DWORD]    : 7 (0X7)
+    AVSignatureVersion                       [REG_SZ]       : 1.349.305.0
+    CloudBasedBehaviorBlocking               [REG_DWORD]    : 1 (0X1)
+    DefinitionUpdateFileSharesSources        [REG_SZ]       : (null)
+    DelayPeriodForUpdateAttempts             [REG_DWORD]    : 30 (0X1E)
+    DeltaUpdateFailure                       [REG_DWORD]    : 0 (0X0)
+    DisableDefaultSigs                       [REG_DWORD]    : 0 (0X0)
+    DisableISU                               [REG_DWORD]    : 0 (0X0)
+    DisableScanOnUpdate                      [REG_DWORD]    : 0 (0X0)
+    DisableScheduledSignatureUpdateOnBattery [REG_DWORD]    : 0 (0X0)
+    DisableSigUpdateOnWdoStart               [REG_DWORD]    : <NO VALUE>
+    DisableUpdateOnStartupWithoutEngine      [REG_DWORD]    : 0 (0X0)
+    EnableEmergencySigs                      [REG_DWORD]    : 0 (0X0)
+    EngineVersion                            [REG_SZ]       : 1.1.18500.10
+    ExpiryNotificationIntervalDays           [REG_DWORD]    : 0 (0X0)
+    FallbackOrder                            [REG_SZ]       : MicrosoftUpdateServer|MMPC
+    FirstAuGracePeriod                       [REG_DWORD]    : 120 (0X78)
+    ForceDelayPeriodForUpdateAttempts        [REG_DWORD]    : 0 (0X0)
+    ForceSigBackupOnLowCost                  [REG_DWORD]    : <NO VALUE>
+    ForceUpdateFromMU                        [REG_DWORD]    : 0 (0X0)
+    HttpSigUpdate_BaseUrl                    [REG_SZ]       : https://go.microsoft.com/fwlink/?LinkID=851034&clcid=0x409&
+    HttpUpdateAltLocation                    [REG_DWORD]    : 0 (0X0)
+    ISUControlFlags                          [REG_DWORD]    : 0 (0X0)
+    ISUInterval                              [REG_DWORD]    : 0 (0X0)
+    ISULength                                [REG_DWORD]    : 0 (0X0)
+    ISUReason                                [REG_DWORD]    : 0 (0X0)
+    ISUStartTime                             [REG_BINARY]   : 
+    LastEmergencySigCheck                    [REG_BINARY]   : 
+    LastFallbackTime                         [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 2:07:05 AM
+    MeteredConnectionUpdates                 [REG_DWORD]    : 0 (0X0)
+    MoCAMPUpdateStarted                      [REG_BINARY]   : [UTC] Sunday, August 22, 2021 1:19:14 AM
+    NISEngineVersion                         [REG_SZ]       : (null)
+    NISSignatureApplied                      [REG_BINARY]   : 
+    NISSignatureBackupLocation               [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\NISBackup
+    NISSignatureDue                          [REG_DWORD]    : 999999 (0XF423F)
+    NISSignatureLocation                     [REG_SZ]       : 
+    NISSignaturesLastUpdated                 [REG_BINARY]   : 
+    NISSignatureVersion                      [REG_SZ]       : (null)
+    RealTimeSignatureDelivery                [REG_DWORD]    : 1 (0X1)
+    ScheduleDay                              [REG_DWORD]    : 8 (0X8)
+    ScheduleTime                             [REG_DWORD]    : 105 (0X69)
+    SharedSignatureRoot                      [REG_SZ]       : (null)
+    SignatureBackupLocation                  [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Backup
+    SignatureBlobFileSharesSources           [REG_SZ]       : (null)
+    SignatureBlobUpdateInterval              [REG_DWORD]    : 60 (0X3C)
+    SignatureCategoryID                      [REG_SZ]       : 8c3fcc84-7410-4a95-8b89-a166a0190486
+    SignatureDefaultLocation                 [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Default
+    SignatureDisableNotification             [REG_DWORD]    : 1 (0X1)
+    SignatureDropLocation                    [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Updates
+    SignatureLocation                        [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{B19CF5B4-AB9E-494D-8C73-16C04220DF8C}
+    SignatureRootLocation                    [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates
+    SignaturesLastUpdated                    [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 6:30:04 PM
+    SignatureType                            [REG_DWORD]    : 0 (0X0)
+    SignatureUpdateCatchupInterval           [REG_DWORD]    : 1 (0X1)
+    SignatureUpdateCount                     [REG_DWORD]    : 36 (0X24)
+    SignatureUpdateInterval                  [REG_DWORD]    : 0 (0X0)
+    SignatureUpdateLastAttempted             [REG_BINARY]   : AA 28 72 0E  8D A3 D7 01 
+    SignatureUpdatePending                   [REG_DWORD]    : 0 (0X0)
+    SigReleaseHeartBeatStage                 [REG_DWORD]    : 0 (0X0)
+    TemporaryExclusionMaxSize                [REG_DWORD]    : 100 (0X64)
+    UpdateOnStartup                          [REG_DWORD]    : 0 (0X0)
+[SpyNet]
+    BypassInternetCheck                      [REG_DWORD]    : 1 (0X1)
+    DisableBlockAtFirstSeen                  [REG_DWORD]    : 0 (0X0)
+    HeartbeatDelayInDays                     [REG_DWORD]    : <NO VALUE>
+    HeartbeatSamplingRate                    [REG_DWORD]    : <NO VALUE>
+    LastMAPSFailureTime                      [REG_BINARY]   : 63 09 FE F3  D6 96 D7 01 
+    LastMAPSSuccessTime                      [REG_BINARY]   : E1 CC 15 F5  1A A4 D7 01 
+    LocalSettingOverrideSpyNetReporting      [REG_DWORD]    : 0 (0X0)
+    LocalSettingOverrideSubmitSamplesConsent [REG_DWORD]    : 0 (0X0)
+    MAPSconcurrency                          [REG_DWORD]    : 1 (0X1)
+    MAPSconcurrencyDss                       [REG_DWORD]    : 10 (0XA)
+    MapsLatencyRetryTimeout                  [REG_DWORD]    : 600000 (0X927C0)
+    MemoryReportID                           [REG_SZ]       : 
+    SpyNetReporting                          [REG_DWORD]    : 2 (0X2)
+    SpyNetReportingLocation                  [REG_MULTI_SZ] : SOAP:https://wdcp.microsoft.com/WdCpSrvc.asmx
+                                                              SOAP:https://wdcpalt.microsoft.com/WdCpSrvc.asmx
+                                                              REST:https://wdcp.microsoft.com/wdcp.svc/submitReport
+                                                              REST:https://wdcpalt.microsoft.com/wdcp.svc/submitReport
+                                                              BOND:https://wdcp.microsoft.com/wdcp.svc/bond/submitreport
+                                                              BOND:https://wdcpalt.microsoft.com/wdcp.svc/bond/submitreport
+    SSLOptions                               [REG_DWORD]    : 3 (0X3)
+    SubmitSamplesConsent                     [REG_DWORD]    : 1 (0X1)
+[Threats]
+[Threats\ThreatIDDefaultAction]
+[Threats\ThreatSeverityDefaultAction]
+[UX Configuration]
+    DisablePrivacyMode                       [REG_DWORD]    : 0 (0X0)
+    Notification_Suppress                    [REG_DWORD]    : 0 (0X0)
+    SuppressRebootNotification               [REG_DWORD]    : 0 (0X0)
+    SuppressWdoNotification                  [REG_DWORD]    : 0 (0X0)
+    UILockdown                               [REG_DWORD]    : 0 (0X0)
+[WCOS]
+    Enabled                                  [REG_DWORD]    : 0 (0X0)
+    IsContainerOs                            [REG_DWORD]    : 0 (0X0)
+[Windows Defender Exploit Guard]
+[Windows Defender Exploit Guard\ASR]
+    EnableASRConsumers                       [REG_DWORD]    : 0 (0X0)
+[Windows Defender Exploit Guard\ASR\ASROnlyExclusions]
+    7674ba52-37eb-4a4f-a9a1-f0f9a1619a2c     [REG_DWORD]    : 0 (0X0)
+[Windows Defender Exploit Guard\ASR\Rules]
+    56a863a9-875e-4185-98a7-b882c64b5ce5     [REG_DWORD]    : 1 (0X1)
+    7674ba52-37eb-4a4f-a9a1-f0f9a1619a2c     [REG_DWORD]    : 1 (0X1)
+    d4f940ab-401b-4efc-aadc-ad5f3c50688a     [REG_DWORD]    : 1 (0X1)
+[Windows Defender Exploit Guard\Controlled Folder Access]
+    EnableControlledFolderAccess             [REG_DWORD]    : 0 (0X0)
+[Windows Defender Exploit Guard\Controlled Folder Access\AllowedApplications]
+[Windows Defender Exploit Guard\Controlled Folder Access\ProtectedFolders]
+[Windows Defender Exploit Guard\DLP]
+[Windows Defender Exploit Guard\DLP\Rules]
+[Windows Defender Exploit Guard\Network Protection]
+    AllowNetworkProtectionDownLevel          [REG_DWORD]    : 0 (0X0)
+    AllowNetworkProtectionOnWinServer        [REG_DWORD]    : 0 (0X0)
+    DisableDnsOverTcpParsing                 [REG_DWORD]    : 0 (0X0)
+    DisableDnsParsing                        [REG_DWORD]    : 0 (0X0)
+    DisableHttpParsing                       [REG_DWORD]    : 0 (0X0)
+    DisableInboundConnectionFiltering        [REG_DWORD]    : 0 (0X0)
+    DisableNetworkProtectionPerfTelemetry    [REG_DWORD]    : 0 (0X0)
+    DisableRdpParsing                        [REG_DWORD]    : 0 (0X0)
+    DisableSshParsing                        [REG_DWORD]    : 0 (0X0)
+    DisableTlsParsing                        [REG_DWORD]    : 0 (0X0)
+    EnableDnsSinkhole                        [REG_DWORD]    : 0 (0X0)
+    EnableInspectResourceAssignment          [REG_DWORD]    : 1 (0X1)
+    EnableNetworkProtection                  [REG_DWORD]    : 0 (0X0)
+------------------
+Current configuration options for location "system policy"
+[.]
+[Device Control]
+[Device Control\Policy Groups]
+[Device Control\Policy Rules]
+[Diagnostics]
+[Diagnostics\BlockedVersions]
+[Diagnostics\BlockedVersions\Engine]
+[Diagnostics\BlockedVersions\Platform]
+[Diagnostics\BlockedVersions\Signatures]
+[Exclusions]
+[Exclusions\Extensions]
+[Exclusions\IpAddresses]
+[Exclusions\Paths]
+[Exclusions\Processes]
+[Exclusions\TemporaryPaths]
+[Features]
+[Features\Controls]
+[Features\Troubleshooting]
+[Miscellaneous Configuration]
+[MpEngine]
+[NIS]
+[NIS\Consumers\IPS]
+[Quarantine]
+[Real-Time Protection]
+[Remediation]
+[Reporting]
+[Scan]
+[Signature Updates]
+[SpyNet]
+[Threats]
+[Threats\ThreatIDDefaultAction]
+[Threats\ThreatSeverityDefaultAction]
+[UX Configuration]
+[WCOS]
+[Windows Defender Exploit Guard]
+[Windows Defender Exploit Guard\ASR]
+[Windows Defender Exploit Guard\ASR\ASROnlyExclusions]
+[Windows Defender Exploit Guard\ASR\Rules]
+[Windows Defender Exploit Guard\Controlled Folder Access]
+[Windows Defender Exploit Guard\Controlled Folder Access\AllowedApplications]
+[Windows Defender Exploit Guard\Controlled Folder Access\ProtectedFolders]
+[Windows Defender Exploit Guard\DLP]
+[Windows Defender Exploit Guard\DLP\Rules]
+[Windows Defender Exploit Guard\Network Protection]
+------------------
+Current configuration options for location "mdm policy"
+[.]
+[Device Control]
+[Device Control\Policy Groups]
+[Device Control\Policy Rules]
+[Diagnostics]
+[Diagnostics\BlockedVersions]
+[Diagnostics\BlockedVersions\Engine]
+[Diagnostics\BlockedVersions\Platform]
+[Diagnostics\BlockedVersions\Signatures]
+[Exclusions]
+[Exclusions\Extensions]
+[Exclusions\IpAddresses]
+[Exclusions\Paths]
+[Exclusions\Processes]
+[Exclusions\TemporaryPaths]
+[Features]
+[Features\Controls]
+[Features\Troubleshooting]
+[Miscellaneous Configuration]
+[MpEngine]
+[NIS]
+[NIS\Consumers\IPS]
+[Quarantine]
+[Real-Time Protection]
+[Remediation]
+[Reporting]
+[Scan]
+[Signature Updates]
+[SpyNet]
+[Threats]
+[Threats\ThreatIDDefaultAction]
+[Threats\ThreatSeverityDefaultAction]
+[UX Configuration]
+[WCOS]
+[Windows Defender Exploit Guard]
+[Windows Defender Exploit Guard\ASR]
+[Windows Defender Exploit Guard\ASR\ASROnlyExclusions]
+[Windows Defender Exploit Guard\ASR\Rules]
+[Windows Defender Exploit Guard\Controlled Folder Access]
+[Windows Defender Exploit Guard\Controlled Folder Access\AllowedApplications]
+[Windows Defender Exploit Guard\Controlled Folder Access\ProtectedFolders]
+[Windows Defender Exploit Guard\DLP]
+[Windows Defender Exploit Guard\DLP\Rules]
+[Windows Defender Exploit Guard\Network Protection]
+------------------
+Current configuration options for location "preferences"
+[.]
+    ProductAppDataPath                       [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender
+    ProductIcon                              [REG_SZ]       : @C:\Program Files\Windows Defender\EppManifest.dll,-100
+    ProductLocalizedName                     [REG_SZ]       : @C:\Program Files\Windows Defender\EppManifest.dll,-1000
+    RemediationExe                           [REG_SZ]       : windowsdefender://
+    ProductType                              [REG_DWORD]    : 2 (0X2)
+    InstallLocation                          [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0\
+    ManagedDefenderProductType               [REG_DWORD]    : 0 (0X0)
+    ProductStatus                            [REG_DWORD]    : 0 (0X0)
+    InstallTime                              [REG_BINARY]   : [UTC] Saturday, August 21, 2021 9:51:50 PM
+    OOBEInstallTime                          [REG_BINARY]   : 51 9A 5A E7  C6 96 D7 01 
+    DisableAntiSpyware                       [REG_DWORD]    : 0 (0X0)
+    DisableAntiVirus                         [REG_DWORD]    : 0 (0X0)
+    PUAProtection                            [REG_DWORD]    : 0 (0X0)
+    IsServiceRunning                         [REG_DWORD]    : 1 (0X1)
+[Device Control]
+[Device Control\Policy Groups]
+[Device Control\Policy Rules]
+[Diagnostics]
+    LastKnownGoodEngineCandidate             [REG_BINARY]   : 0A 00 44 48  01 00 01 00 
+    PlatformHealthData                       [REG_BINARY]   : 02 00 00 00  28 01 00 00  B5 94 27 BB  FF 96 D7 01  E4 9B CE 26  1A A4 D7 01  04 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  04 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  00 00 00 00  00 00 00 00  01 00 00 00  02 00 00 00  00 00 00 00  78 01 00 00  00 00 00 00  00 00 00 00  01 00 00 00  03 00 00 00  00 00 00 00  78 01 00 00  01 00 00 00  00 00 00 00  01 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  02 00 00 00 
+    LastKnownGoodPlatformLocation            [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0
+[Diagnostics\BlockedVersions]
+[Diagnostics\BlockedVersions\Engine]
+[Diagnostics\BlockedVersions\Platform]
+[Diagnostics\BlockedVersions\Signatures]
+[Exclusions]
+[Exclusions\Extensions]
+[Exclusions\IpAddresses]
+[Exclusions\Paths]
+[Exclusions\Processes]
+[Exclusions\TemporaryPaths]
+[Features]
+    TamperProtection                         [REG_DWORD]    : 1 (0X1)
+    MpPlatformKillbitsFromEngine             [REG_BINARY]   : 00 08 0A 04  00 00 00 00 
+    TamperProtectionSource                   [REG_DWORD]    : 5 (0X5)
+    MpCapability                             [REG_BINARY]   : 1F 00 00 00  00 00 00 00 
+    ChangedDefaults                          [REG_BINARY]   : 01 00 00 00  00 00 00 00 
+[Features\Controls]
+    7                                        [REG_DWORD]    : 1 (0X1)
+    9                                        [REG_DWORD]    : 1 (0X1)
+[Features\Troubleshooting]
+[Miscellaneous Configuration]
+    DeltaUpdateFailure                       [REG_DWORD]    : 0 (0X0)
+    BddUpdateFailure                         [REG_DWORD]    : 0 (0X0)
+[MpEngine]
+[NIS]
+[NIS\Consumers\IPS]
+[Quarantine]
+    PurgeItemsAfterDelay                     [REG_DWORD]    : 90 (0X5A)
+[Real-Time Protection]
+    DpaDisabled                              [REG_DWORD]    : 0 (0X0)
+[Remediation]
+[Reporting]
+    LastRtpAndScanConfigsCollectedInHeartbeatTime [REG_BINARY]   : AE 89 FB F3  D6 96 D7 01 
+    SigUpdateTimestampsSinceLastHB           [REG_SZ]       : 
+    LastRebootTime                           [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 1:56:26 AM
+    LastHeartbeatReportTime                  [REG_BINARY]   : 10 C7 9E 2D  D7 A2 D7 01 
+    ScansSinceLastRecap                      [REG_DWORD]    : 1 (0X1)
+    LastRecapTime                            [REG_BINARY]   : FF 9D EB 15  8D A3 D7 01 
+[Scan]
+    A59CCD8E-0000-0000-0000-010000000000     [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\A59CCD8E-0000-0000-0000-010000000000-0.bin
+    SFCState                                 [REG_DWORD]    : 7 (0X7)
+    DaysUntilAggressiveCatchupQuickScan      [REG_DWORD]    : 30 (0X1E)
+    AggressiveCatchupQuickScanReattemptElapsed [REG_DWORD]    : 23 (0X17)
+    CacheFile                                [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\F0D480E9-0002-4457-9CC1-FE39636AD3C5-0.bin
+    F0D480E9-0002-4457-9CC1-FE39636AD3C5     [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\F0D480E9-0002-4457-9CC1-FE39636AD3C5-0.bin
+    LastScanType                             [REG_DWORD]    : 1 (0X1)
+    LastScanRun                              [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 2:07:18 AM
+    LastQuickScanID                          [REG_SZ]       : {426EEDEE-A5DE-4A2A-979C-7202210DF9CF}
+    LastQuickScanResourceCount               [REG_BINARY]   : 4F 99 07 00  00 00 00 00 
+    LastAggressiveCheck                      [REG_BINARY]   : [UTC] Monday, September 6, 2021 4:25:09 AM
+[Signature Updates]
+    DisableDefaultSigs                       [REG_DWORD]    : 0 (0X0)
+    SignatureCategoryID                      [REG_SZ]       : 8c3fcc84-7410-4a95-8b89-a166a0190486
+    EngineVersion                            [REG_SZ]       : 1.1.18500.10
+    AVSignatureVersion                       [REG_SZ]       : 1.349.305.0
+    AVSignatureBaseVersion                   [REG_SZ]       : 1.349.0.0
+    AVSignatureApplied                       [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 12:25:15 PM
+    ASSignatureVersion                       [REG_SZ]       : 1.349.305.0
+    ASSignatureBaseVersion                   [REG_SZ]       : 1.349.0.0
+    ASSignatureApplied                       [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 12:25:16 PM
+    SignatureLocation                        [REG_SZ]       : C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{B19CF5B4-AB9E-494D-8C73-16C04220DF8C}
+    SignatureType                            [REG_DWORD]    : 0 (0X0)
+    SignatureUpdateCount                     [REG_DWORD]    : 36 (0X24)
+    SignaturesLastUpdated                    [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 6:30:04 PM
+    MoCAMPUpdateStarted                      [REG_BINARY]   : [UTC] Sunday, August 22, 2021 1:19:14 AM
+    SignatureUpdateLastAttempted             [REG_BINARY]   : AA 28 72 0E  8D A3 D7 01 
+    SignatureUpdatePending                   [REG_DWORD]    : 0 (0X0)
+    LastFallbackTime                         [REG_BINARY]   : [UTC] Tuesday, September 7, 2021 2:07:05 AM
+[SpyNet]
+    SpyNetReporting                          [REG_DWORD]    : 2 (0X2)
+    SubmitSamplesConsent                     [REG_DWORD]    : 1 (0X1)
+    SpyNetReportingLocation                  [REG_MULTI_SZ] : SOAP:https://wdcp.microsoft.com/WdCpSrvc.asmx
+                                                              SOAP:https://wdcpalt.microsoft.com/WdCpSrvc.asmx
+                                                              REST:https://wdcp.microsoft.com/wdcp.svc/submitReport
+                                                              REST:https://wdcpalt.microsoft.com/wdcp.svc/submitReport
+                                                              BOND:https://wdcp.microsoft.com/wdcp.svc/bond/submitreport
+                                                              BOND:https://wdcpalt.microsoft.com/wdcp.svc/bond/submitreport
+    SSLOptions                               [REG_DWORD]    : 3 (0X3)
+    MAPSconcurrency                          [REG_DWORD]    : 1 (0X1)
+    MAPSconcurrencyDss                       [REG_DWORD]    : 10 (0XA)
+    LastMAPSFailureTime                      [REG_BINARY]   : 63 09 FE F3  D6 96 D7 01 
+    LastMAPSSuccessTime                      [REG_BINARY]   : E1 CC 15 F5  1A A4 D7 01 
+[Threats]
+[Threats\ThreatIDDefaultAction]
+[Threats\ThreatSeverityDefaultAction]
+[UX Configuration]
+[WCOS]
+[Windows Defender Exploit Guard]
+[Windows Defender Exploit Guard\ASR]
+[Windows Defender Exploit Guard\ASR\ASROnlyExclusions]
+    7674ba52-37eb-4a4f-a9a1-f0f9a1619a2c     [REG_DWORD]    : 0 (0X0)
+[Windows Defender Exploit Guard\ASR\Rules]
+    56a863a9-875e-4185-98a7-b882c64b5ce5     [REG_DWORD]    : 1 (0X1)
+    7674ba52-37eb-4a4f-a9a1-f0f9a1619a2c     [REG_DWORD]    : 1 (0X1)
+    d4f940ab-401b-4efc-aadc-ad5f3c50688a     [REG_DWORD]    : 1 (0X1)
+[Windows Defender Exploit Guard\Controlled Folder Access]
+[Windows Defender Exploit Guard\Controlled Folder Access\AllowedApplications]
+[Windows Defender Exploit Guard\Controlled Folder Access\ProtectedFolders]
+[Windows Defender Exploit Guard\DLP]
+[Windows Defender Exploit Guard\DLP\Rules]
+[Windows Defender Exploit Guard\Network Protection]
+------------------
+[.]	    ReportingGUID                            [REG_SZ]       : 18B4C6DF-81AE-4A3E-8D9D-89D0FB459414
+------------------
+Windows Setup keys from "SYSTEM\Setup"
+ 
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup]
+    CmdLine                                  [REG_SZ]       : 
+    OOBEInProgress                           [REG_DWORD]    : 0 (0X0)
+    OsLoaderPath                             [REG_SZ]       : \
+    RespecializeCmdLine                      [REG_SZ]       : Sysprep\sysprep.exe /respecialize /quiet
+    RestartSetup                             [REG_DWORD]    : 0 (0X0)
+    SetupPhase                               [REG_DWORD]    : 0 (0X0)
+    SetupSupported                           [REG_DWORD]    : 1 (0X1)
+    SetupType                                [REG_DWORD]    : 0 (0X0)
+    SystemPartition                          [REG_SZ]       : \Device\HarddiskVolume1
+    SystemSetupInProgress                    [REG_DWORD]    : 0 (0X0)
+    CloneTag                                 [REG_MULTI_SZ] : Sun Sep 27 07:55:22 2020
+    WorkingDirectory                         [REG_SZ]       : C:\Windows\Panther
+    RemoveWindowsOld                         [REG_DWORD]    : 0 (0X0)
+    HypervisorLaunchTypeReflect              [REG_DWORD]    : 1 (0X1)
+------------------
+ 
+Microsoft Antimalware keys from "SOFTWARE\Microsoft\Microsoft Antimalware"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Antimalware]
+Managed Defender keys not found. NOT a managed Defender installation.
+------------------
+ 
+Microsoft Antimalware Setup keys from "SOFTWARE\Microsoft\Microsoft Antimalware Setup"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Antimalware Setup]
+Managed Defender setup keys not found. NOT a managed Defender installation.
+------------------
+ 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021493-0000-0000-C000-000000000046}]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021493-0000-0000-C000-000000000046}\Enum]
+    Implementing                             [REG_BINARY]   : 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021494-0000-0000-C000-000000000046}]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021494-0000-0000-C000-000000000046}\Enum]
+    Implementing                             [REG_BINARY]   : 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  00 00 
+------------------
+ 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021492-0000-0000-C000-000000000046}]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021492-0000-0000-C000-000000000046}\Enum]
+    Implementing                             [REG_BINARY]   : 1C 00 00 00  01 00 00 00  E5 07 09 00  06 00 04 00  13 00 3B 00  1B 00 A3 01  02 00 00 00  81 45 E0 01  EE 4E D0 11  BF E9 00 AA  00 5B 43 83  21 BF 5C 0E  5F D1 D0 11  83 01 00 AA  00 5B 43 83 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{56FFCC30-D398-11D0-B2AE-00A0C908FA49}]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{56FFCC30-D398-11D0-B2AE-00A0C908FA49}\Enum]
+    Implementing                             [REG_BINARY]   : 1C 00 00 00  01 00 00 00  E5 07 09 00  06 00 04 00  16 00 0A 00  1A 00 19 03  01 00 00 00  1E 76 81 27  E0 28 09 41  99 FE B9 D1  27 C5 7A FE 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\*\ShellEx\ContextMenuHandlers\EPP]
+    (Default)                                [REG_SZ]       : {09A47860-11B0-4DA5-AFA5-26D86198A780}
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\Drive\ShellEx\ContextMenuHandlers\EPP]
+    (Default)                                [REG_SZ]       : {09A47860-11B0-4DA5-AFA5-26D86198A780}
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\Directory\ShellEx\ContextMenuHandlers\EPP]
+    (Default)                                [REG_SZ]       : {09A47860-11B0-4DA5-AFA5-26D86198A780}
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\APPID\{2781761E-28E2-4109-99FE-B9D127C57AFE}]
+    LocalService                             [REG_SZ]       : WinDefend
+    ServiceParameters                        [REG_SZ]       : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\APPID\{A79DB36D-6218-48e6-9EC9-DCBA9A39BF0F}]
+    (Default)                                [REG_SZ]       : Microsoft Windows Defender
+    AccessPermission                         [REG_BINARY]   : 01 00 04 80  58 00 00 00  68 00 00 00  00 00 00 00  14 00 00 00  02 00 44 00  03 00 00 00  00 00 14 00  03 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 14 00  03 00 00 00  01 01 00 00  00 00 00 05  0A 00 00 00  00 00 14 00  03 00 00 00  01 01 00 00  00 00 00 05  04 00 00 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00 
+    DllSurrogate                             [REG_SZ]       : 
+    LaunchPermission                         [REG_BINARY]   : 01 00 04 80  5C 00 00 00  6C 00 00 00  00 00 00 00  14 00 00 00  02 00 48 00  03 00 00 00  00 00 14 00  0B 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 18 00  0B 00 00 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  00 00 14 00  0B 00 00 00  01 01 00 00  00 00 00 05  04 00 00 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\APPID\{FDA74D11-C4A6-4577-9F73-D7CA8586E10D}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+    (Default)                                [REG_SZ]       : Windows Defender IOfficeAntiVirus implementation
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Hosts]
+    (Default)                                [REG_SZ]       : Scanned Hosting Applications
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Hosts\shdocvw]
+    (Default)                                [REG_SZ]       : IAttachmentExecute
+    Enable                                   [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Hosts\urlmon]
+    (Default)                                [REG_SZ]       : ActiveX controls
+    Enable                                   [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Implemented Categories]
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Implemented Categories\{56FFCC30-D398-11D0-B2AE-00A0C908FA49}]
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: "%ProgramData%\Microsoft\Windows Defender\platform\4.18.2107.4-0\MpOav.dll"
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E1-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{2781761E-28E2-4109-99FE-B9D127C57AFE}]
+    (Default)                                [REG_SZ]       : Windows Defender IAmsiUacProvider implementation
+    AppId                                    [REG_SZ]       : {2781761E-28E2-4109-99FE-B9D127C57AFE}
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{A2D75874-6750-4931-94C1-C99D3BC9D0C7}]
+    (Default)                                [REG_SZ]       : Microsoft Windows Defender
+    AppID                                    [REG_SZ]       : {A79DB36D-6218-48e6-9EC9-DCBA9A39BF0F}
+    LocalizedString                          [REG_EXPAND_SZ]: @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-300
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{A2D75874-6750-4931-94C1-C99D3BC9D0C7}\Elevation]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    IconReference                            [REG_EXPAND_SZ]: @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-103
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{A2D75874-6750-4931-94C1-C99D3BC9D0C7}\InprocServer32]
+    (Default)                                [REG_SZ]       : C:\Program Files\Windows Defender\MsMpCom.dll
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{195B4D07-3DE2-4744-BBF2-D90121AE785B}]
+    (Default)                                [REG_SZ]       : Defender CSP
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{195B4D07-3DE2-4744-BBF2-D90121AE785B}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: "%ProgramData%\Microsoft\Windows Defender\platform\4.18.2107.4-0\DefenderCSP.dll"
+    ThreadingModel                           [REG_SZ]       : Free
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{09A47860-11B0-4DA5-AFA5-26D86198A780}]
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{09A47860-11B0-4DA5-AFA5-26D86198A780}\InprocServer32]
+    (Default)                                [REG_SZ]       : C:\Program Files\Windows Defender\shellext.dll
+    ThreadingModel                           [REG_SZ]       : Apartment
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{09A47860-11B0-4DA5-AFA5-26D86198A780}\Version]
+    (Default)                                [REG_SZ]       : 10.0.19041.746
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{361290c0-cb1b-49ae-9f3e-ba1cbe5dab35}]
+    (Default)                                [REG_SZ]       : InfectionState WMI Provider
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{361290c0-cb1b-49ae-9f3e-ba1cbe5dab35}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: %ProgramFiles%\Windows Defender\MpProvider.dll
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{DACA056E-216A-4FD1-84A6-C306A017ECEC}]
+    (Default)                                [REG_SZ]       : AMMonitoring WMI Provider
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{DACA056E-216A-4FD1-84A6-C306A017ECEC}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: %ProgramFiles%\Windows Defender\AMMonitoringProvider.dll
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{8a696d12-576b-422e-9712-01b9dd84b446}]
+    (Default)                                [REG_SZ]       : Status WMI Provider
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{8a696d12-576b-422e-9712-01b9dd84b446}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: %ProgramFiles%\Windows Defender\MpProvider.dll
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{FDA74D11-C4A6-4577-9F73-D7CA8586E10D}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{13F6A0B6-57AF-4BA7-ACAA-614BC89CA9D8}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{94F35585-C5D7-4D95-BA71-A745AE76E2E2}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{A7C452EF-8E9F-42EB-9F2B-245613CA0DC9}]
+    (Default)                                [REG_SZ]       : Windows Defender WMI Provider
+[HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{A7C452EF-8E9F-42EB-9F2B-245613CA0DC9}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: "%ProgramData%\Microsoft\Windows Defender\platform\4.18.2107.4-0\ProtectionManagement.dll"
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{8C389764-F036-48F2-9AE2-88C260DCF43B}]
+[HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{8C389764-F036-48F2-9AE2-88C260DCF43B}\1.0]
+    (Default)                                [REG_SZ]       : Microsoft Windows Defender COM Utility 1.0 Type Library
+[HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{8C389764-F036-48F2-9AE2-88C260DCF43B}\1.0\0]
+[HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{8C389764-F036-48F2-9AE2-88C260DCF43B}\1.0\0\win64]
+    (Default)                                [REG_SZ]       : C:\Program Files\Windows Defender\MsMpCom.dll
+[HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{8C389764-F036-48F2-9AE2-88C260DCF43B}\1.0\FLAGS]
+    (Default)                                [REG_SZ]       : 0
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\AMSI]
+    FeatureBits                              [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\AMSI\Providers]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\AMSI\UacProviders]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\AMSI\UacProviders\{2781761E-28E2-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Extension Validation]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Extension Validation\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+    SecurityHealth                           [REG_EXPAND_SZ]: %windir%\system32\SecurityHealthSystray.exe
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate]
+    SusClientIdValidation                    [REG_BINARY]   : 06 02 28 01  1C 14 30 00  30 00 32 00  35 00 5F 00  33 00 38 00  38 00 38 00  5F 00 39 00  31 00 42 00  43 00 5F 00  37 00 38 00  45 00 33 00  2E 00 06 00  D8 61 8A F0  84 42 00 53  00 53 00 2D  00 30 00 31  00 32 00 33  00 34 00 35  00 36 00 37  00 38 00 39  00 31 00 39  00 50 00 4E  00 30 00 39  00 37 00 38  00 31 00 38  00 
+    SusClientId                              [REG_SZ]       : 95a8d7e9-429c-4c30-a99d-2b6a18c84ef0
+    LastDownloadsPurgeTime                   [REG_SZ]       : 2021-09-07 07:58:17
+    UpdateDesiredVisibility                  [REG_DWORD]    : 0 (0X0)
+    LastTaskOperationHandle                  [REG_DWORD]    : 900 (0X384)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update]
+    AcceleratedInstallRequired               [REG_DWORD]    : 1 (0X1)
+    IsOOBEInProgress                         [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\LastOnlineScanTimeForAppCategory]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\LastOnlineScanTimeForAppCategory\855E8A7C-ECB4-4CA3-B045-1DFA50104289]
+    E16735C5-32A5-4FC3-A094-7C4C073B30B8     [REG_SZ]       : 2021-09-06 22:54:36
+    75980D77-AD1E-4C90-904E-6A75B59743E4     [REG_SZ]       : 2021-09-06 22:54:36
+    BE437D05-6D78-42B6-9BC1-D38C6DE4A43D     [REG_SZ]       : 2021-09-06 22:54:36
+    00C2490A-EF1D-43C9-BDBA-B84ECC77D2EA     [REG_SZ]       : 2021-09-06 22:54:36
+    F855810C-9F77-45FF-A0F5-CD0FEAA945C6     [REG_SZ]       : 2021-09-06 22:54:36
+    7F354D0E-A913-4AA0-815D-3FA9FBFF2BD8     [REG_SZ]       : 2021-09-06 22:54:36
+    CFC4A10E-0356-451D-BB3E-C4FE5EDFD20C     [REG_SZ]       : 2021-09-06 22:54:36
+    1A36FD17-5161-4651-AE2D-13384E427EA8     [REG_SZ]       : 2021-09-06 22:54:36
+    579FC437-D398-411C-A6C5-D01FD4523B94     [REG_SZ]       : 2021-09-06 22:54:36
+    9F03273F-FE0B-4ED8-9BC8-C2F256375490     [REG_SZ]       : 2021-09-06 22:54:36
+    64293252-5926-453C-9494-2D4021F1C78D     [REG_SZ]       : 2021-09-06 22:54:36
+    64A79953-CF0B-44F9-B5C4-EE5DF3A15C63     [REG_SZ]       : 2021-09-06 22:54:36
+    65B58C5C-5C7E-4B72-9D9F-9BDD15C506B3     [REG_SZ]       : 2021-09-06 22:54:36
+    B4F3025D-A236-44B0-8D4C-849BED549259     [REG_SZ]       : 2021-09-06 22:54:36
+    5E19CC61-8994-4797-BDC7-C21263F6282B     [REG_SZ]       : 2021-09-06 22:54:36
+    DE4F0463-7DB2-48EE-959C-70E02541F4E6     [REG_SZ]       : 2021-09-06 22:54:36
+    20F45068-02FC-4701-9385-53AC85D8EAF9     [REG_SZ]       : 2021-09-06 22:54:36
+    EAAC6C6B-10A4-4659-815B-44F151ECA61A     [REG_SZ]       : 2021-09-06 22:54:36
+    421BA874-F903-4965-9B82-D60F3BA3CAE0     [REG_SZ]       : 2021-09-06 22:54:36
+    2830B57A-D6C7-4C7A-873E-AD2365CDF2BF     [REG_SZ]       : 2021-09-06 22:54:36
+    06AA027C-C7AA-4CFE-AF76-D1FDA87F376A     [REG_SZ]       : 2021-09-06 22:54:36
+    0C7D3085-6C21-49A1-B267-52FDD722CA9D     [REG_SZ]       : 2021-09-06 22:54:36
+    E632FE90-A5BA-43AA-BF81-9DE8413E83D8     [REG_SZ]       : 2021-09-06 22:54:36
+    B90F3A9A-C043-41A7-A774-E51F6069283B     [REG_SZ]       : 2021-09-06 22:54:36
+    B99AEF9A-1685-4798-B4B1-3D94EE6D7184     [REG_SZ]       : 2021-09-06 22:54:36
+    454A759B-FF5B-4A79-80D3-1CF15EBA0908     [REG_SZ]       : 2021-09-06 22:54:36
+    F022389F-F3A6-417E-AD23-704FBDF57117     [REG_SZ]       : 2021-09-06 22:54:36
+    253402B1-6356-4131-B1CD-F4F3B6D2B03C     [REG_SZ]       : 2021-09-06 22:54:36
+    CD5D53B1-33F7-4A95-B111-F51F187C7130     [REG_SZ]       : 2021-09-06 22:54:36
+    D63C16B5-90E0-4DF5-83AE-8CA6F53997D5     [REG_SZ]       : 2021-09-06 22:54:36
+    733893B8-533D-4292-BF27-23D218B39A95     [REG_SZ]       : 2021-09-06 22:54:36
+    16DB93BF-8748-449A-96BA-E9ED3A5F872D     [REG_SZ]       : 2021-09-06 22:54:36
+    2F510DC1-4B62-4128-956E-A73D253CC9CB     [REG_SZ]       : 2021-09-06 22:54:36
+    3ECE63C1-AE51-4414-9064-B4FF1E0A9017     [REG_SZ]       : 2021-09-06 22:54:36
+    F4CCC4C1-6E9A-49A0-8F19-46F1717C7BA3     [REG_SZ]       : 2021-09-06 22:54:36
+    9DB724C9-966D-4AEB-9D3B-D6B2C77F3DE3     [REG_SZ]       : 2021-09-06 22:54:36
+    214308D7-4262-449D-A78D-9A2306144B11     [REG_SZ]       : 2021-09-06 22:54:36
+    9607E6E2-46A5-4A17-AFCA-908FFC36D70B     [REG_SZ]       : 2021-09-07 17:19:09
+    64B22DF1-5A9C-4C88-AA1F-42CEFAF8B281     [REG_SZ]       : 2021-09-06 22:54:36
+    EB8C95FE-7294-45C1-8768-73CC6A769307     [REG_SZ]       : 2021-09-06 22:54:36
+    4A7CE086-1FA1-4273-8C20-25173B334373     [REG_SZ]       : 2021-09-06 22:54:36
+    5C353B9C-7AC7-4D27-AF07-923E7D9AA2E2     [REG_SZ]       : 2021-09-06 22:54:36
+    613F6011-ADAC-4BD6-8C3E-3679DFA89FC5     [REG_SZ]       : 2021-09-06 22:54:36
+    66B49FD6-E605-42B4-94A4-B9F23CE15C36     [REG_SZ]       : 2021-09-06 22:54:36
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\Power]
+    Firmware-Final                           [REG_DWORD]    : 30 (0X1E)
+    OfferInstallAtShutdown-Final             [REG_DWORD]    : 40 (0X28)
+    ContinueInstallAtShutdown-Final          [REG_DWORD]    : 10 (0XA)
+    FirmwareForcedInstall-Final              [REG_DWORD]    : 35 (0X23)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\RequestedAppCategories]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\RequestedAppCategories\855E8A7C-ECB4-4CA3-B045-1DFA50104289]
+    E16735C5-32A5-4FC3-A094-7C4C073B30B8     [REG_SZ]       : 2021-09-06 22:54:36
+    75980D77-AD1E-4C90-904E-6A75B59743E4     [REG_SZ]       : 2021-09-07 02:27:07
+    BE437D05-6D78-42B6-9BC1-D38C6DE4A43D     [REG_SZ]       : 2021-09-06 22:54:36
+    00C2490A-EF1D-43C9-BDBA-B84ECC77D2EA     [REG_SZ]       : 2021-09-06 22:54:36
+    F855810C-9F77-45FF-A0F5-CD0FEAA945C6     [REG_SZ]       : 2021-09-06 22:54:36
+    7F354D0E-A913-4AA0-815D-3FA9FBFF2BD8     [REG_SZ]       : 2021-09-06 22:54:36
+    CFC4A10E-0356-451D-BB3E-C4FE5EDFD20C     [REG_SZ]       : 2021-09-06 22:54:36
+    1A36FD17-5161-4651-AE2D-13384E427EA8     [REG_SZ]       : 2021-09-06 22:54:36
+    579FC437-D398-411C-A6C5-D01FD4523B94     [REG_SZ]       : 2021-09-06 22:54:36
+    9F03273F-FE0B-4ED8-9BC8-C2F256375490     [REG_SZ]       : 2021-09-06 22:54:36
+    64293252-5926-453C-9494-2D4021F1C78D     [REG_SZ]       : 2021-09-06 22:54:36
+    64A79953-CF0B-44F9-B5C4-EE5DF3A15C63     [REG_SZ]       : 2021-09-06 22:54:36
+    65B58C5C-5C7E-4B72-9D9F-9BDD15C506B3     [REG_SZ]       : 2021-09-06 22:54:36
+    B4F3025D-A236-44B0-8D4C-849BED549259     [REG_SZ]       : 2021-09-06 22:54:36
+    5E19CC61-8994-4797-BDC7-C21263F6282B     [REG_SZ]       : 2021-09-06 22:54:36
+    DE4F0463-7DB2-48EE-959C-70E02541F4E6     [REG_SZ]       : 2021-09-06 22:54:36
+    20F45068-02FC-4701-9385-53AC85D8EAF9     [REG_SZ]       : 2021-09-06 22:54:36
+    EAAC6C6B-10A4-4659-815B-44F151ECA61A     [REG_SZ]       : 2021-09-06 22:54:36
+    421BA874-F903-4965-9B82-D60F3BA3CAE0     [REG_SZ]       : 2021-09-06 22:54:36
+    2830B57A-D6C7-4C7A-873E-AD2365CDF2BF     [REG_SZ]       : 2021-09-06 22:54:36
+    06AA027C-C7AA-4CFE-AF76-D1FDA87F376A     [REG_SZ]       : 2021-09-06 22:54:36
+    0C7D3085-6C21-49A1-B267-52FDD722CA9D     [REG_SZ]       : 2021-09-06 22:54:36
+    E632FE90-A5BA-43AA-BF81-9DE8413E83D8     [REG_SZ]       : 2021-09-06 22:54:36
+    B90F3A9A-C043-41A7-A774-E51F6069283B     [REG_SZ]       : 2021-09-06 22:54:36
+    B99AEF9A-1685-4798-B4B1-3D94EE6D7184     [REG_SZ]       : 2021-09-06 22:54:36
+    454A759B-FF5B-4A79-80D3-1CF15EBA0908     [REG_SZ]       : 2021-09-06 22:54:36
+    F022389F-F3A6-417E-AD23-704FBDF57117     [REG_SZ]       : 2021-09-06 22:54:36
+    253402B1-6356-4131-B1CD-F4F3B6D2B03C     [REG_SZ]       : 2021-09-06 22:54:36
+    CD5D53B1-33F7-4A95-B111-F51F187C7130     [REG_SZ]       : 2021-09-06 22:54:36
+    D63C16B5-90E0-4DF5-83AE-8CA6F53997D5     [REG_SZ]       : 2021-09-06 22:54:36
+    733893B8-533D-4292-BF27-23D218B39A95     [REG_SZ]       : 2021-09-06 22:54:36
+    16DB93BF-8748-449A-96BA-E9ED3A5F872D     [REG_SZ]       : 2021-09-06 22:54:36
+    2F510DC1-4B62-4128-956E-A73D253CC9CB     [REG_SZ]       : 2021-09-06 22:54:36
+    3ECE63C1-AE51-4414-9064-B4FF1E0A9017     [REG_SZ]       : 2021-09-06 22:54:36
+    F4CCC4C1-6E9A-49A0-8F19-46F1717C7BA3     [REG_SZ]       : 2021-09-06 22:54:36
+    9DB724C9-966D-4AEB-9D3B-D6B2C77F3DE3     [REG_SZ]       : 2021-09-06 22:54:36
+    214308D7-4262-449D-A78D-9A2306144B11     [REG_SZ]       : 2021-09-06 22:54:36
+    9607E6E2-46A5-4A17-AFCA-908FFC36D70B     [REG_SZ]       : 2021-09-07 17:19:09
+    64B22DF1-5A9C-4C88-AA1F-42CEFAF8B281     [REG_SZ]       : 2021-09-06 22:54:36
+    EB8C95FE-7294-45C1-8768-73CC6A769307     [REG_SZ]       : 2021-09-06 22:54:36
+    4A7CE086-1FA1-4273-8C20-25173B334373     [REG_SZ]       : 2021-09-06 22:54:36
+    5C353B9C-7AC7-4D27-AF07-923E7D9AA2E2     [REG_SZ]       : 2021-09-06 22:54:36
+    613F6011-ADAC-4BD6-8C3E-3679DFA89FC5     [REG_SZ]       : 2021-09-06 22:54:36
+    66B49FD6-E605-42B4-94A4-B9F23CE15C36     [REG_SZ]       : 2021-09-06 22:54:36
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\RequestedAppCategories\8B24B027-1DEE-BABB-9A95-3517DFB9C552]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update\RequestedAppCategories\9482F4B4-E343-43B6-B170-9A65BC822C77]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator]
+    MostackEnabled                           [REG_DWORD]    : 1 (0X1)
+    MoStack                                  [REG_DWORD]    : 1 (0X1)
+    SafeToEndReserveScenario                 [REG_DWORD]    : 1 (0X1)
+    SettingsETag                             [REG_SZ]       : "7B79C5E787FCFF3A759B1D9D::2F0E96D9EA"
+    Preshutdown                              [REG_DWORD]    : 0 (0X0)
+    FlightPendingCommit                      [REG_DWORD]    : 0 (0X0)
+    StartWorkerOnServiceStart                [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\Lus]
+    decisionenginepatch                      [REG_SZ]       : {"tables":[{"name":"system wake allowed","rules":[{"checks":[["policy active hours restricted","=",true]],"result":true},{"checks":[["policy scheduled install","=",true]],"result":true},{"checks":[],"result":false}]},{"name":"system enable prehibernate wake","rules":[{"checks":[],"result":false}]},{"name":"update should use storage reserve","rules":[{"checks":[["update critical","=",true]],"result":false},{"checks":[["update minor impact","=",true]],"result":false},{"checks":[["update feature","=",true]],"result":false},{"checks":[["update is for os","=",true]],"result":true},{"checks":[],"result":false}]}],"version":"10.0.19041.4"}
+    disableimagesontoasts                    [REG_SZ]       : true
+    installcallbacktimeoutinms               [REG_SZ]       : 14400000
+    universalorchestratorupdatersarray       [REG_SZ]       : [{"updaterbehindslaindays":2,"updaterid":"ia","updateroobedurationinminutes":7200,"updaterpriority":9},{"updaterbehindslaindays":2,"updaterid":"uso","updateroobedurationinminutes":5760,"updaterpriority":10},{"updaterbehindslaindays":2,"updaterid":"officeclicktorun","updateroobedurationinminutes":7200,"updaterpriority":8}]
+    useuniversalorchestrator                 [REG_SZ]       : true
+    useuniversalpause                        [REG_SZ]       : true
+    wudefaultslainminutes                    [REG_SZ]       : 2880
+    wuoobedurationinminutes                  [REG_SZ]       : 5760
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\Scheduler]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\Settings]
+    decisionenginepatch                      [REG_SZ]       : {"tables":[{"name":"System Wake Allowed","rules":[{"checks":[["Policy active hours restricted","=",true]],"result":true},{"checks":[["Policy Scheduled Install","=",true]],"result":true},{"checks":[],"result":false}]},{"name":"System Enable Prehibernate Wake","rules":[{"checks":[],"result":false}]},{"name":"Update should use storage reserve","rules":[{"checks":[["Update critical","=",true]],"result":false},{"checks":[["Update minor impact","=",true]],"result":false},{"checks":[["Update feature","=",true]],"result":false},{"checks":[["Update is for os","=",true]],"result":true},{"checks":[],"result":false}]}],"version":"10.0.19041.4"}
+    disableimagesontoasts                    [REG_SZ]       : True
+    installcallbacktimeoutinms               [REG_DWORD]    : 14400000 (0XDBBA00)
+    universalorchestratorupdatersarray       [REG_SZ]       : [{"updaterBehindSlaInDays":2,"updaterId":"IA","updaterOOBEDurationInMinutes":7200,"updaterPriority":9},{"updaterBehindSlaInDays":2,"updaterId":"USO","updaterOOBEDurationInMinutes":5760,"updaterPriority":10},{"updaterBehindSlaInDays":2,"updaterId":"OfficeClickToRun","updaterOOBEDurationInMinutes":7200,"updaterPriority":8}]
+    useuniversalorchestrator                 [REG_SZ]       : TRUE
+    useuniversalpause                        [REG_SZ]       : TRUE
+    wudefaultslainminutes                    [REG_DWORD]    : 2880 (0XB40)
+    wuoobedurationinminutes                  [REG_DWORD]    : 5760 (0X1680)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\UScheduler]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\UScheduler\ia]
+    updaterBehindSlaInDays                   [REG_DWORD]    : 2 (0X2)
+    updaterPriority                          [REG_DWORD]    : 9 (0X9)
+    updaterOOBEDurationInMinutes             [REG_DWORD]    : 7200 (0X1C20)
+    cmdLine                                  [REG_SZ]       : C:\Windows\System32\usoclient.exe
+    startArg                                 [REG_SZ]       : StartStoreUpdates
+    pauseArg                                 [REG_SZ]       : PauseStoreUpdates
+    workCompleted                            [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\UScheduler\officeclicktorun]
+    updaterBehindSlaInDays                   [REG_DWORD]    : 2 (0X2)
+    updaterPriority                          [REG_DWORD]    : 8 (0X8)
+    updaterOOBEDurationInMinutes             [REG_DWORD]    : 7200 (0X1C20)
+    cmdLine                                  [REG_SZ]       : C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe
+    startArg                                 [REG_SZ]       : /update UPDATEORCHESTRATOR
+    pauseArg                                 [REG_SZ]       : 
+    workCompleted                            [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\UScheduler\uso]
+    updaterBehindSlaInDays                   [REG_DWORD]    : 2 (0X2)
+    updaterPriority                          [REG_DWORD]    : 10 (0XA)
+    updaterOOBEDurationInMinutes             [REG_DWORD]    : 5760 (0X1680)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\WorkScheduler]
+    EnablePreHibernateWake                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Orchestrator\InstallAtShutdown]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Reporting]
+    SamplingValue2                           [REG_DWORD]    : 817 (0X331)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Reporting\EventCache.v2]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Reporting\EventCache.v2\Legacy]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Reporting\RebootWatch]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services\855E8A7C-ECB4-4CA3-B045-1DFA50104289]
+    RegisteredWithAU                         [REG_DWORD]    : 0 (0X0)
+    CountryCode                              [REG_SZ]       : US
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services\8B24B027-1DEE-BABB-9A95-3517DFB9C552]
+    RegisteredWithAU                         [REG_DWORD]    : 0 (0X0)
+    CountryCode                              [REG_SZ]       : US
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services\9482F4B4-E343-43B6-B170-9A65BC822C77]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services\Pending]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\SLS]
+    ClientHash2                              [REG_DWORD]    : 583 (0X247)
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\SLS\{2B81F1BF-356C-4FA1-90F1-7581A62C6764}]
+    ResponseHash                             [REG_BINARY]   : E6 70 B9 A2  07 6A 2A D7  D7 58 56 06  0B 29 0F 66  98 D2 70 15  CB 63 2E 70  AA 46 EF 93  80 31 37 63 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\SLS\{855E8A7C-ECB4-4CA3-B045-1DFA50104289}]
+    ResponseHash                             [REG_BINARY]   : CD F4 C9 6B  99 13 35 5E  65 30 31 F0  8F 08 90 90  7E 50 FD 5F  E5 7C A7 EF  34 D9 16 E3  C9 98 C6 25 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\SLS\{8B24B027-1DEE-BABB-9A95-3517DFB9C552}]
+    ResponseHash                             [REG_BINARY]   : C2 F9 07 A2  37 D8 C4 84  BC 2E F6 1F  CA 58 D7 9E  A6 01 10 B1  B5 76 A0 17  66 90 3B 8F  DD 4D 29 D0 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\SLS\{9482F4B4-E343-43B6-B170-9A65BC822C77}]
+    ResponseHash                             [REG_BINARY]   : 37 A5 B4 24  5F CF 39 3A  09 29 56 A1  7B 30 3E 36  4A DF 8B 17  48 A4 83 41  18 38 0E D1  02 F9 4E 67 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\StickyUpdates]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\WinREUninstallList]
+    Timestamp                                [REG_SZ]       : 2021-09-07T01:59:01Z
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate]
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate\AU]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderAuditLogger]
+    Age                                      [REG_DWORD]    : 1 (0X1)
+    BufferSize                               [REG_DWORD]    : 64 (0X40)
+    ClockType                                [REG_DWORD]    : 2 (0X2)
+    EnableSecurityProvider                   [REG_DWORD]    : 1 (0X1)
+    FlushTimer                               [REG_DWORD]    : 1 (0X1)
+    GUID                                     [REG_SZ]       : {6B4012D0-22B6-464D-A553-20E9618403A1}
+    LogFileMode                              [REG_DWORD]    : 402653632 (0X180001C0)
+    MaximumBuffers                           [REG_DWORD]    : 16 (0X10)
+    MinimumBuffers                           [REG_DWORD]    : 0 (0X0)
+    Start                                    [REG_DWORD]    : 1 (0X1)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger]
+    Age                                      [REG_DWORD]    : 1 (0X1)
+    BufferSize                               [REG_DWORD]    : 64 (0X40)
+    ClockType                                [REG_DWORD]    : 2 (0X2)
+    FlushTimer                               [REG_DWORD]    : 1 (0X1)
+    GUID                                     [REG_SZ]       : {6B4012D0-22B6-464D-A553-20E9618403A2}
+    LogFileMode                              [REG_DWORD]    : 402653568 (0X18000180)
+    MaximumBuffers                           [REG_DWORD]    : 16 (0X10)
+    MinimumBuffers                           [REG_DWORD]    : 0 (0X0)
+    Start                                    [REG_DWORD]    : 1 (0X1)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{099614a5-5dd7-4788-8bc9-e29f43db28fc}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{1edeee53-0afe-4609-b846-d8c0b2075b1f}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{1edeee53-0afe-4609-b846-d8c0b2075b1f}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 0B 00 16 00  E5 16 17 00 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{54849625-5478-4994-a5ba-3e3b0328c30d}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{54849625-5478-4994-a5ba-3e3b0328c30d}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 10 12 11 12  5A 12 5E 12  73 12 74 12  82 12 00 15  03 15 04 15  05 15 06 15  70 12 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{85a62a0d-7e17-485f-9d4f-749a287193a6}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{8c416c79-d49b-4f01-a467-e56d3aa8234c}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 10 00 FE FF 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{c688cf83-9945-5ff6-0e1e-1ff1f8a2ec9a}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{E02A841C-75A3-4FA7-AFC8-AE09CF9B7F23}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 31 (0X1F)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{E02A841C-75A3-4FA7-AFC8-AE09CF9B7F23}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 01 00 02 00  03 00 04 00  07 00 08 00 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{ef1cc15b-46c1-414e-bb95-e76b077bd51e}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{ef1cc15b-46c1-414e-bb95-e76b077bd51e}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 03 00 FE FF 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{f4e1897c-bb5d-5668-f1d8-040f4d8dd344}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{fae10392-f0af-4ac0-b8ff-9f4d920c3cdf}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{fae10392-f0af-4ac0-b8ff-9f4d920c3cdf}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 01 00 02 00  03 00 04 00  05 00 06 00  07 00 08 00  09 00 0A 00  0B 00 0C 00  0D 00 0E 00  0F 00 10 00  11 00 12 00  13 00 14 00  15 00 16 00  17 00 18 00 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EnableLevel                              [REG_DWORD]    : 0 (0X0)
+    Status                                   [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\WMI\AutoLogger\DefenderApiLogger\{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}\Filters]
+    Enabled                                  [REG_DWORD]    : 1 (0X1)
+    EventIdFilterIn                          [REG_DWORD]    : 1 (0X1)
+    EventIds                                 [REG_BINARY]   : 4E 04 68 00 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Wdf01000]
+    DisplayName                              [REG_SZ]       : @%SystemRoot%\system32\drivers\Wdf01000.sys,-1000
+    ErrorControl                             [REG_DWORD]    : 1 (0X1)
+    Group                                    [REG_SZ]       : WdfLoadGroup
+    ImagePath                                [REG_EXPAND_SZ]: system32\drivers\Wdf01000.sys
+    Start                                    [REG_DWORD]    : 0 (0X0)
+    Type                                     [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Wdf01000\Parameters]
+    MajorVersion                             [REG_DWORD]    : 1 (0X1)
+    MinorVersion                             [REG_DWORD]    : 31 (0X1F)
+    BuildNumber                              [REG_DWORD]    : 0 (0X0)
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\APPID\{2781761E-28E2-4109-99FE-B9D127C57AFE}]
+    LocalService                             [REG_SZ]       : WinDefend
+    ServiceParameters                        [REG_SZ]       : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+    (Default)                                [REG_SZ]       : Windows Defender IOfficeAntiVirus implementation
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Implemented Categories]
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\Implemented Categories\{56FFCC30-D398-11D0-B2AE-00A0C908FA49}]
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32]
+    (Default)                                [REG_EXPAND_SZ]: "C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0\X86\MpOav.dll"
+    ThreadingModel                           [REG_SZ]       : Both
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E1-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{2781761E-28E2-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\AMSI]
+    FeatureBits                              [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\AMSI\Providers]
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Internet Explorer\Extension Validation]
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Internet Explorer\Extension Validation\{2781761E-28E0-4109-99FE-B9D127C57AFE}]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Advanced Threat Protection]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Advanced Threat Protection\Status]
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WinDefend]
+    DependOnService                          [REG_MULTI_SZ] : RpcSs
+    Description                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-240
+    DisplayName                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-310
+    ErrorControl                             [REG_DWORD]    : 1 (0X1)
+    FailureActions                           [REG_BINARY]   : 80 51 01 00  00 00 00 00  01 00 00 00  03 00 00 00  14 00 00 00  01 00 00 00  E8 03 00 00  01 00 00 00  10 27 00 00  01 00 00 00  60 EA 00 00 
+    ImagePath                                [REG_EXPAND_SZ]: "C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0\MsMpEng.exe"
+    LaunchProtected                          [REG_DWORD]    : 3 (0X3)
+    ObjectName                               [REG_SZ]       : LocalSystem
+    RequiredPrivileges                       [REG_MULTI_SZ] : SeImpersonatePrivilege
+                                                              SeBackupPrivilege
+                                                              SeRestorePrivilege
+                                                              SeDebugPrivilege
+                                                              SeChangeNotifyPrivilege
+                                                              SeLoadDriverPrivilege
+                                                              SeSecurityPrivilege
+                                                              SeShutdownPrivilege
+                                                              SeIncreaseQuotaPrivilege
+                                                              SeAssignPrimaryTokenPrivilege
+                                                              SeTcbPrivilege
+                                                              SeIncreaseBasePriorityPrivilege
+                                                              SeSystemEnvironmentPrivilege
+                                                              SeTakeOwnershipPrivilege
+    ServiceSidType                           [REG_DWORD]    : 1 (0X1)
+    Start                                    [REG_DWORD]    : 2 (0X2)
+    Type                                     [REG_DWORD]    : 16 (0X10)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WinDefend\Security]
+    Security                                 [REG_BINARY]   : 01 00 14 80  F4 00 00 00  00 01 00 00  14 00 00 00  30 00 00 00  02 00 1C 00  01 00 00 00  02 80 14 00  FF 01 0F 00  01 01 00 00  00 00 00 01  00 00 00 00  02 00 C4 00  07 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  21 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  04 00 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  06 00 00 00  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  B5 89 FB 38  19 84 C2 CB  5C 6C 23 6D  57 00 77 6E  C0 02 64 87  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  BF 55 08 72  3B E0 28 D0  89 79 4B F8  91 89 6E 7C  40 25 EC F4  01 01 00 00  00 00 00 05  12 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00 
+ 
+State of 'WinDefend' service:
+SERVICE_NAME: WinDefend
+      TYPE               : 10 WIN32_OWN_PROCESS 
+      STATE              : 4  RUNNING 
+                              (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+      WIN32_EXIT_CODE    : 0  (0)
+      SERVICE_EXIT_CODE  : 0  (0)
+      CHECKPOINT         : 0
+      WAIT_HINT          : 0
+      PID                : 4864
+      FLAGS              : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdFilter]
+    DependOnService                          [REG_MULTI_SZ] : FltMgr
+    Description                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-340
+    DisplayName                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-330
+    ErrorControl                             [REG_DWORD]    : 1 (0X1)
+    Group                                    [REG_SZ]       : FSFilter Anti-Virus
+    ImagePath                                [REG_EXPAND_SZ]: system32\drivers\wd\WdFilter.sys
+    Start                                    [REG_DWORD]    : 0 (0X0)
+    SupportedFeatures                        [REG_DWORD]    : 7 (0X7)
+    Type                                     [REG_DWORD]    : 2 (0X2)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdFilter\Instances]
+    DefaultInstance                          [REG_SZ]       : WdFilter Instance
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdFilter\Instances\WdFilter Instance]
+    Altitude                                 [REG_SZ]       : 328010
+    Flags                                    [REG_DWORD]    : 0 (0X0)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdFilter\Security]
+    Security                                 [REG_BINARY]   : 01 00 14 80  F4 00 00 00  00 01 00 00  14 00 00 00  30 00 00 00  02 00 1C 00  01 00 00 00  02 80 14 00  FF 01 0F 00  01 01 00 00  00 00 00 01  00 00 00 00  02 00 C4 00  07 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  21 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  04 00 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  06 00 00 00  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  B5 89 FB 38  19 84 C2 CB  5C 6C 23 6D  57 00 77 6E  C0 02 64 87  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  BF 55 08 72  3B E0 28 D0  89 79 4B F8  91 89 6E 7C  40 25 EC F4  01 01 00 00  00 00 00 05  12 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00 
+ 
+State of 'WdFilter' service:
+SERVICE_NAME: WdFilter
+      TYPE               : 2  FILE_SYSTEM_DRIVER 
+      STATE              : 4  RUNNING 
+                              (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+      WIN32_EXIT_CODE    : 0  (0)
+      SERVICE_EXIT_CODE  : 0  (0)
+      CHECKPOINT         : 0
+      WAIT_HINT          : 0
+      PID                : 0
+      FLAGS              : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdNisDrv]
+    DependOnService                          [REG_MULTI_SZ] : BFE
+    Description                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-242
+    DisplayName                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-370
+    ErrorControl                             [REG_DWORD]    : 1 (0X1)
+    ImagePath                                [REG_EXPAND_SZ]: system32\drivers\wd\WdNisDrv.sys
+    Start                                    [REG_DWORD]    : 3 (0X3)
+    Type                                     [REG_DWORD]    : 1 (0X1)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdNisDrv\Security]
+    Security                                 [REG_BINARY]   : 01 00 14 80  F4 00 00 00  00 01 00 00  14 00 00 00  30 00 00 00  02 00 1C 00  01 00 00 00  02 80 14 00  FF 01 0F 00  01 01 00 00  00 00 00 01  00 00 00 00  02 00 C4 00  07 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  21 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  04 00 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  06 00 00 00  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  B5 89 FB 38  19 84 C2 CB  5C 6C 23 6D  57 00 77 6E  C0 02 64 87  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  BF 55 08 72  3B E0 28 D0  89 79 4B F8  91 89 6E 7C  40 25 EC F4  01 01 00 00  00 00 00 05  12 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00 
+ 
+State of 'WdNisDrv' service:
+SERVICE_NAME: WdNisDrv
+      TYPE               : 1  KERNEL_DRIVER 
+      STATE              : 4  RUNNING 
+                              (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+      WIN32_EXIT_CODE    : 0  (0)
+      SERVICE_EXIT_CODE  : 0  (0)
+      CHECKPOINT         : 0
+      WAIT_HINT          : 0
+      PID                : 0
+      FLAGS              : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdNisSvc]
+    DependOnService                          [REG_MULTI_SZ] : WdNisDrv
+    Description                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-242
+    DisplayName                              [REG_SZ]       : @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-320
+    ErrorControl                             [REG_DWORD]    : 1 (0X1)
+    FailureActions                           [REG_BINARY]   : 80 51 01 00  00 00 00 00  00 00 00 00  03 00 00 00  14 00 00 00  01 00 00 00  60 EA 00 00  01 00 00 00  60 EA 00 00  00 00 00 00  00 00 00 00 
+    ImagePath                                [REG_EXPAND_SZ]: "%ProgramData%\Microsoft\Windows Defender\platform\4.18.2107.4-0\NisSrv.exe"
+    LaunchProtected                          [REG_DWORD]    : 3 (0X3)
+    ObjectName                               [REG_SZ]       : NT AUTHORITY\LocalService
+    ServiceSidType                           [REG_DWORD]    : 1 (0X1)
+    Start                                    [REG_DWORD]    : 3 (0X3)
+    Type                                     [REG_DWORD]    : 16 (0X10)
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdNisSvc\Parameters]
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdNisSvc\Security]
+    Security                                 [REG_BINARY]   : 01 00 14 80  F4 00 00 00  00 01 00 00  14 00 00 00  30 00 00 00  02 00 1C 00  01 00 00 00  02 80 14 00  FF 01 0F 00  01 01 00 00  00 00 00 01  00 00 00 00  02 00 C4 00  07 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  21 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  12 00 00 00  00 00 18 00  9D 01 02 00  01 02 00 00  00 00 00 05  20 00 00 00  20 02 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  04 00 00 00  00 00 14 00  9D 01 02 00  01 01 00 00  00 00 00 05  06 00 00 00  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  B5 89 FB 38  19 84 C2 CB  5C 6C 23 6D  57 00 77 6E  C0 02 64 87  00 00 28 00  FF 01 0F 00  01 06 00 00  00 00 00 05  50 00 00 00  BF 55 08 72  3B E0 28 D0  89 79 4B F8  91 89 6E 7C  40 25 EC F4  01 01 00 00  00 00 00 05  12 00 00 00  01 01 00 00  00 00 00 05  12 00 00 00 
+ 
+State of 'WdNisSvc' service:
+SERVICE_NAME: WdNisSvc
+      TYPE               : 10 WIN32_OWN_PROCESS 
+      STATE              : 4  RUNNING 
+                              (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+      WIN32_EXIT_CODE    : 0  (0)
+      SERVICE_EXIT_CODE  : 0  (0)
+      CHECKPOINT         : 0
+      WAIT_HINT          : 0
+      PID                : 10736
+      FLAGS              : 
+------------------
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WdDevFlt]
+ 
+State of 'WdDevFlt' service:
+------------------
+WddReport(hr=0): ServiceState=0 (hr=0x80070424) CDROM=0x8007000d VOLUME=[volsnap] WPD=[WpdUpFltr]
