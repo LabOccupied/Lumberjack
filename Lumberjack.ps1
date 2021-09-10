@@ -193,37 +193,50 @@ Write-Host `r`n $ASRs[$Item.ToString().substring(4, 36)] -ForegroundColor White 
 "
     } '5' {
     
-    function GetStringBetweenTwoStrings($firstString, $secondString, $importPath){
+$Text = Get-Content $MPRegistry -Raw
 
-    #Get content from file
-    $file = Get-Content $importPath -Raw
 
-    #Regex pattern to compare two strings
-    $pattern = "$firstString(.*?)$secondString"
+Write-Host "================================================================================================"; Write-Host "`r`n Extension Exclusions Found: `r`n" -ForegroundColor Green
+$Regex = '(?ms)\[Exclusions\\Extensions\](.+?)\[Exclusions'
 
-    #Perform the opperation
-    $result = [regex]::Matches($file,$pattern).Groups[1].Value
+$OutputText = [regex]::Matches($Text,$Regex) |
+foreach {$_.groups[1].value }
+Write-Host $OutputText 
 
-    #Return result
-    return $result
 
-}
+Write-Host "================================================================================================"; Write-Host "`r`n IP Address Exclusions Found: `r`n" -ForegroundColor Green
+$Regex = '(?ms)\[Exclusions\\IpAddresses\](.+?)\[Exclusions'
 
-Write-Host "================================================================================================"; Write-Host "Exclusions found in the Effective Policy (Policy that is actually present on the machine) - `r`n" -ForegroundColor Green
-Write-Host "Extension Exclusions found: " -ForegroundColor Green
-GetStringBetweenTwoStrings -firstString "[Exclusions\\Extensions] " -secondString "[Exclusions\\IpAddresses]" -importPath $MPRegistry
+$OutputText = [regex]::Matches($Text,$Regex) |
+foreach {$_.groups[1].value }
+Write-Host $OutputText 
 
-Write-Host "IP Address Exclusions found: " -ForegroundColor Green
-GetStringBetweenTwoStrings -firstString "[Exclusions\\IpAddresses] " -secondString "[Exclusions\\Paths]" -importPath $MPRegistry
 
-Write-Host "Path Exclusions found: " -ForegroundColor Green
-GetStringBetweenTwoStrings -firstString "[Exclusions\\Paths] " -secondString "[Exclusions\\Processes]" -importPath $MPRegistry
+Write-Host "================================================================================================"; Write-Host "`r`n Path Exclusions Found: `r`n" -ForegroundColor Green
+$Regex = '(?ms)\[Exclusions\\Paths\](.+?)\[Exclusions\\Processes\]'
 
-Write-Host "Process Exclusions found: " -ForegroundColor Green
-GetStringBetweenTwoStrings -firstString "[Exclusions\\Processes] " -secondString "[Exclusions\\TemporaryPaths]" -importPath $MPRegistry
+$OutputText = [regex]::Matches($Text,$Regex) |
+foreach {$_.groups[1].value }
+Write-Host $OutputText 
 
-Write-Host "Temporary Path Exclusions found: " -ForegroundColor Green
-GetStringBetweenTwoStrings -firstString "[Exclusions\\TemporaryPaths] " -secondString "[Features]" -importPath $MPRegistry
+
+
+Write-Host "================================================================================================"; Write-Host "`r`n Process Exclusions Found: `r`n" -ForegroundColor Green
+$Regex = '(?ms)\[Exclusions\\Processes\](.+?)\[Exclusions\\TemporaryPaths\]'
+
+$OutputText = [regex]::Matches($Text,$Regex) |
+foreach {$_.groups[1].value }
+Write-Host $OutputText 
+
+
+
+Write-Host "================================================================================================"; Write-Host "`r`n Temporary Path Exclusions Found: `r`n" -ForegroundColor Green
+$Regex = '(?ms)\[Exclusions\\TemporaryPaths\](.+?)\[Features\]'
+
+$OutputText = [regex]::Matches($Text,$Regex) |
+foreach {$_.groups[1].value }
+Write-Host $OutputText 
+
 
 
 
