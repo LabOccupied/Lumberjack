@@ -138,12 +138,12 @@ Write-Host $i}
 Write-Host '    MDE Machine ID:                          ' -NoNewLine; Write-Host $WdatpInfoResults.ToString().substring(62, 40)
 } Catch {Write-Host "(null)"}
 
-
+Try{
 If ($MpRegOrgID.ToString() -NotLike '*null*'){
 Write-Host '    MDE Org ID:                              ' -NoNewLine; Write-Host $MpRegOrgID.ToString().substring(62.36)
 }
 Else {Write-Host '    MDE Org ID:                              ' -NoNewLine; Write-Host $MpRegOrgID.ToString().substring(61.7)}
-
+} Catch{}
 
 
 
